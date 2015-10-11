@@ -5,6 +5,7 @@ title: Becoming a Modern Sociopath
 
 {{ page.title }}
 ================
+<p class="meta">11 Oct 2015</p>
 
 For most of us, the word *sociopath* has an old-fashioned reference: a popular, charismatic and good-looking white male wearing a suit. You'd find them in prestigious jobs yielding power and money: M&A analysts, corporate lawyers, project managers. If you've ever watched *American Psycho*, that's the guy.
 
