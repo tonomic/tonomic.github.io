@@ -6,9 +6,9 @@ title: Becoming a modern sociopath
 {{ page.title }}
 ================
 
-For most of us, the word *sociopath* has an old-fashioned reference: a popular, carismatic and good-looking white male wearing a suit. You'd find them in prestigious jobs yielding power and money: M&A analysts, corporate lawyers, project managers. If you've ever watched *American Psycho*, that's the guy.
+For most of us, the word *sociopath* has an old-fashioned reference: a popular, charismatic and good-looking white male wearing a suit. You'd find them in prestigious jobs yielding power and money: M&A analysts, corporate lawyers, project managers. If you've ever watched *American Psycho*, that's the guy.
 
-These positions still attract many sociopaths, but that's not *what's hot* in the post-2008 world. Instead, the most ingenous, cynic and malicious of them realized this image was actually undermining their careers. So, they pivoted to a more innovative, popular and disruptive image.
+These positions still attract many sociopaths, but that's not *what's hot* in the post-2008 world. Instead, the most ingenious, cynic and malicious of them realized this image was actually undermining their careers. So, they pivoted to a more innovative, popular and disruptive image.
 
 Wanna be like them? Here's what you should do:
 
@@ -19,7 +19,7 @@ Wanna be like them? Here's what you should do:
 
 **3)** Go to some 'disruptive' and 'innovative' hackathons. Free labor for your next startup. Perfect right?
 
-**4)**Read a book called 'Python/JavaScript for dummies'. Although developers will laugh at you, you'll impress dumb investors with words like 'Array', 'Data', 'Repository' and, again, 'Disruption'.
+**4)**Read a book called 'Python/JavaScript for dummies'. Although developers will laugh at you, you'll impress dumb investors with words like *Array*, *Data*, *Repository* and, of course, *Disruption*.
 
 **5)**Buy whatever you want, even if extremely expensive. It's all about 'making employees feel cozy', 'impressing customers' and 'awesome SoMa experience'. 
 
