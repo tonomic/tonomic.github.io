@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Modern Sociopath
+title: Becoming a Modern Sociopath
 ---
 
 {{ page.title }}
